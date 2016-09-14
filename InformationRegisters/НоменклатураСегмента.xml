@@ -34,8 +34,6 @@
 		<Properties>
 			<Name>НоменклатураСегмента</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
-			<WriteMode>Independent</WriteMode>
 		</Properties>
 		<ChildObjects>
 			<Dimension uuid="29ffbac0-e812-44f4-a160-21c12b31c22d">

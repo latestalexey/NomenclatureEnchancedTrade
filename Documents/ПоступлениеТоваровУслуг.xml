@@ -506,6 +506,15 @@
 					</Type>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="1cb99cdd-8c6f-4085-9ee5-f9e4d38525ec">
+				<Properties>
+					<Name>ТоварноТранспортнаяНакладнаяЕГАИС</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:DocumentRef.ТТНВходящаяЕГАИС</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
 			<Form>ФормаДокумента</Form>
 			<TabularSection uuid="6a3e61bc-0675-4e55-896e-ff47bbf2f653">
 				<InternalInfo>

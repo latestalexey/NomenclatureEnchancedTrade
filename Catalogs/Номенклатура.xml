@@ -28,10 +28,6 @@
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<Hierarchical>true</Hierarchical>
 			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
-			<CodeLength>11</CodeLength>
-			<DescriptionLength>100</DescriptionLength>
-			<CodeType>String</CodeType>
-			<CodeAllowedLength>Fixed</CodeAllowedLength>
 		</Properties>
 		<ChildObjects>
 			<Attribute uuid="ab8d4791-661a-4463-8746-b170ed1215a6">

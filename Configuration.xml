@@ -45,10 +45,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>mrXoxot</Vendor>
-			<Version>1.1</Version>
-			<DefaultLanguage>Language.Русский</DefaultLanguage>
-			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
-			<CompatibilityMode>Version8_3_6</CompatibilityMode>
+			<Version>1.2</Version>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
@@ -127,6 +124,7 @@
 			<FunctionalOption>ИспользоватьИмпортныеТовары</FunctionalOption>
 			<FunctionalOption>ВестиСведенияДляДекларацийАлкоВРознице</FunctionalOption>
 			<FunctionalOption>ИспользоватьОрдернуюСхемуПриПоступлении</FunctionalOption>
+			<FunctionalOption>ВестиУчетМаркировкиПродукцииВГИСМ</FunctionalOption>
 			<DefinedType>Артикул</DefinedType>
 			<Constant>ИспользоватьКачествоТоваров</Constant>
 			<Constant>ИспользоватьСегментыНоменклатуры</Constant>
@@ -156,6 +154,7 @@
 			<Constant>ИспользоватьСоглашенияСПоставщиками</Constant>
 			<Constant>ВестиСведенияДляДекларацийАлкоВРознице</Constant>
 			<Constant>ИспользоватьИмпортныеТовары</Constant>
+			<Constant>ВестиУчетМаркировкиПродукцииВГИСМ</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
@@ -201,6 +200,7 @@
 			<Document>ТранспортнаяНакладная</Document>
 			<Document>ЗаявкаНаВозвратТоваровОтКлиента</Document>
 			<Document>КоммерческоеПредложениеКлиенту</Document>
+			<Document>ТТНВходящаяЕГАИС</Document>
 			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ВариантыНавигацииВФормахНоменклатуры</Enum>
@@ -218,6 +218,7 @@
 			<Enum>СостоянияЗаказовПоставщикам</Enum>
 			<Enum>СтатусыЗаказовПоставщикам</Enum>
 			<Enum>ФормыОплаты</Enum>
+			<Enum>СтатусыОбработкиТТНВходящейЕГАИС</Enum>
 			<DataProcessor>ПанельИнформацииНоменклатуры</DataProcessor>
 			<DataProcessor>ПомощникЗачетаОплат</DataProcessor>
 			<InformationRegister>НоменклатураСегмента</InformationRegister>

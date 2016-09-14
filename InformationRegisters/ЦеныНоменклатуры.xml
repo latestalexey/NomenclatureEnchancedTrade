@@ -34,8 +34,6 @@
 		<Properties>
 			<Name>ЦеныНоменклатуры</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<InformationRegisterPeriodicity>Second</InformationRegisterPeriodicity>
-			<WriteMode>RecorderSubordinate</WriteMode>
 		</Properties>
 		<ChildObjects>
 			<Resource uuid="f1993197-47e9-4093-a002-16be1a920845">

@@ -26,9 +26,6 @@
 		<Properties>
 			<Name>ВидыНоменклатуры</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Hierarchical>true</Hierarchical>
-			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
-			<DescriptionLength>50</DescriptionLength>
 		</Properties>
 		<ChildObjects/>
 	</Catalog>

@@ -328,6 +328,7 @@
 										<Table name="СписокРасширенныйПоискНоменклатура" id="1">
 											<Representation>List</Representation>
 											<CommandBarLocation>None</CommandBarLocation>
+											<VerticalScrollBar>DontUse</VerticalScrollBar>
 											<UseAlternationRowColor>true</UseAlternationRowColor>
 											<SearchOnInput>DontUse</SearchOnInput>
 											<InitialTreeView>ExpandTopLevel</InitialTreeView>
@@ -457,6 +458,16 @@
 													</UserVisible>
 													<ContextMenu name="СписокРасширенныйПоискНоменклатураСсылкаКонтекстноеМеню" id="60"/>
 													<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураСсылкаExtendedTooltip" id="204"/>
+												</LabelField>
+												<LabelField name="СписокРасширенныйПоискВидНоменклатуры" id="506">
+													<DataPath>СписокНоменклатура.ВидНоменклатуры</DataPath>
+													<Width>2</Width>
+													<AutoMaxWidth>false</AutoMaxWidth>
+													<MaxWidth>2</MaxWidth>
+													<AutoMaxHeight>false</AutoMaxHeight>
+													<HorizontalStretch>false</HorizontalStretch>
+													<ContextMenu name="СписокРасширенныйПоискВидНоменклатурыКонтекстноеМеню" id="507"/>
+													<ExtendedTooltip name="СписокРасширенныйПоискВидНоменклатурыРасширеннаяПодсказка" id="508"/>
 												</LabelField>
 											</ChildItems>
 										</Table>
@@ -603,6 +614,7 @@
 								<Table name="СписокСтандартныйПоискНоменклатура" id="164">
 									<Representation>List</Representation>
 									<CommandBarLocation>None</CommandBarLocation>
+									<VerticalScrollBar>DontUse</VerticalScrollBar>
 									<UseAlternationRowColor>true</UseAlternationRowColor>
 									<SearchOnInput>Use</SearchOnInput>
 									<InitialTreeView>ExpandTopLevel</InitialTreeView>
@@ -730,6 +742,16 @@
 											</UserVisible>
 											<ContextMenu name="СписокСтандартныйПоискНоменклатураСсылкаКонтекстноеМеню" id="172"/>
 											<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураСсылкаExtendedTooltip" id="220"/>
+										</LabelField>
+										<LabelField name="СписокСтандартныйПоискВидНоменклатуры" id="509">
+											<DataPath>СписокНоменклатура.ВидНоменклатуры</DataPath>
+											<Width>2</Width>
+											<AutoMaxWidth>false</AutoMaxWidth>
+											<MaxWidth>2</MaxWidth>
+											<AutoMaxHeight>false</AutoMaxHeight>
+											<HorizontalStretch>false</HorizontalStretch>
+											<ContextMenu name="СписокСтандартныйПоискВидНоменклатурыКонтекстноеМеню" id="510"/>
+											<ExtendedTooltip name="СписокСтандартныйПоискВидНоменклатурыРасширеннаяПодсказка" id="511"/>
 										</LabelField>
 									</ChildItems>
 								</Table>
@@ -1525,6 +1547,7 @@
 											<Representation>Tree</Representation>
 											<SelectionMode>SingleRow</SelectionMode>
 											<Header>false</Header>
+											<VerticalScrollBar>DontUse</VerticalScrollBar>
 											<AutoInsertNewRow>true</AutoInsertNewRow>
 											<InitialTreeView>ExpandTopLevel</InitialTreeView>
 											<EnableStartDrag>true</EnableStartDrag>
@@ -1668,6 +1691,7 @@
 											<Height>10</Height>
 											<SelectionMode>SingleRow</SelectionMode>
 											<Header>false</Header>
+											<VerticalScrollBar>DontUse</VerticalScrollBar>
 											<UseAlternationRowColor>true</UseAlternationRowColor>
 											<EnableStartDrag>true</EnableStartDrag>
 											<EnableDrag>true</EnableDrag>
@@ -2078,7 +2102,6 @@
 				<Field>СписокНоменклатура.Артикул</Field>
 				<Field>СписокНоменклатура.Parent</Field>
 				<Field>1/30</Field>
-				<Field>1/24</Field>
 			</UseAlways>
 			<Settings xsi:type="DynamicList">
 				<ManualQuery>true</ManualQuery>
@@ -3765,6 +3788,7 @@
 											<Table name="СписокРасширенныйПоискНоменклатура" id="1">
 												<Representation>List</Representation>
 												<CommandBarLocation>None</CommandBarLocation>
+												<VerticalScrollBar>DontUse</VerticalScrollBar>
 												<UseAlternationRowColor>true</UseAlternationRowColor>
 												<SearchOnInput>DontUse</SearchOnInput>
 												<InitialTreeView>ExpandTopLevel</InitialTreeView>
@@ -4012,6 +4036,7 @@
 									<Table name="СписокСтандартныйПоискНоменклатура" id="164">
 										<Representation>List</Representation>
 										<CommandBarLocation>None</CommandBarLocation>
+										<VerticalScrollBar>DontUse</VerticalScrollBar>
 										<UseAlternationRowColor>true</UseAlternationRowColor>
 										<SearchOnInput>Use</SearchOnInput>
 										<InitialTreeView>ExpandTopLevel</InitialTreeView>
@@ -4280,6 +4305,7 @@
 												<Representation>Tree</Representation>
 												<SelectionMode>SingleRow</SelectionMode>
 												<Header>false</Header>
+												<VerticalScrollBar>DontUse</VerticalScrollBar>
 												<AutoInsertNewRow>true</AutoInsertNewRow>
 												<InitialTreeView>ExpandTopLevel</InitialTreeView>
 												<EnableStartDrag>true</EnableStartDrag>
@@ -4422,6 +4448,7 @@
 												<Representation>Tree</Representation>
 												<SelectionMode>SingleRow</SelectionMode>
 												<Header>false</Header>
+												<VerticalScrollBar>DontUse</VerticalScrollBar>
 												<UseAlternationRowColor>true</UseAlternationRowColor>
 												<EnableStartDrag>true</EnableStartDrag>
 												<EnableDrag>true</EnableDrag>
