@@ -459,6 +459,11 @@
 													<ContextMenu name="СписокРасширенныйПоискНоменклатураСсылкаКонтекстноеМеню" id="60"/>
 													<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураСсылкаExtendedTooltip" id="204"/>
 												</LabelField>
+												<LabelField name="СписокРасширенныйПоискРодитель" id="512">
+													<DataPath>СписокНоменклатура.Parent</DataPath>
+													<ContextMenu name="СписокРасширенныйПоискРодительКонтекстноеМеню" id="513"/>
+													<ExtendedTooltip name="СписокРасширенныйПоискРодительРасширеннаяПодсказка" id="514"/>
+												</LabelField>
 												<LabelField name="СписокРасширенныйПоискВидНоменклатуры" id="506">
 													<DataPath>СписокНоменклатура.ВидНоменклатуры</DataPath>
 													<Width>2</Width>
@@ -752,6 +757,11 @@
 											<HorizontalStretch>false</HorizontalStretch>
 											<ContextMenu name="СписокСтандартныйПоискВидНоменклатурыКонтекстноеМеню" id="510"/>
 											<ExtendedTooltip name="СписокСтандартныйПоискВидНоменклатурыРасширеннаяПодсказка" id="511"/>
+										</LabelField>
+										<LabelField name="СписокСтандартныйПоискРодитель" id="515">
+											<DataPath>СписокНоменклатура.Parent</DataPath>
+											<ContextMenu name="СписокСтандартныйПоискРодительКонтекстноеМеню" id="516"/>
+											<ExtendedTooltip name="СписокСтандартныйПоискРодительРасширеннаяПодсказка" id="517"/>
 										</LabelField>
 									</ChildItems>
 								</Table>
