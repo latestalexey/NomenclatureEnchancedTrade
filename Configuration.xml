@@ -45,7 +45,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>mrXoxot</Vendor>
-			<Version>1.2</Version>
+			<Version>1.3</Version>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
@@ -200,25 +200,17 @@
 			<Document>ТранспортнаяНакладная</Document>
 			<Document>ЗаявкаНаВозвратТоваровОтКлиента</Document>
 			<Document>КоммерческоеПредложениеКлиенту</Document>
-			<Document>ТТНВходящаяЕГАИС</Document>
 			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
 			<Enum>СтавкиНДС</Enum>
-			<Enum>ВариантыНавигацииВФормахНоменклатуры</Enum>
 			<Enum>СпособыДоставки</Enum>
 			<Enum>СтатусыРеализацийТоваровУслуг</Enum>
 			<Enum>ТипыНалогообложенияНДС</Enum>
-			<Enum>ПорядокРасчетов</Enum>
 			<Enum>ХозяйственныеОперации</Enum>
 			<Enum>ВариантыОформленияПродажи</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
-			<Enum>ВариантыОплатыКлиентом</Enum>
 			<Enum>ВариантыОбеспечения</Enum>
 			<Enum>СтатусыЗаказовКлиентов</Enum>
-			<Enum>СостоянияЗаказовКлиентов</Enum>
-			<Enum>СостоянияЗаказовПоставщикам</Enum>
 			<Enum>СтатусыЗаказовПоставщикам</Enum>
-			<Enum>ФормыОплаты</Enum>
-			<Enum>СтатусыОбработкиТТНВходящейЕГАИС</Enum>
 			<DataProcessor>ПанельИнформацииНоменклатуры</DataProcessor>
 			<DataProcessor>ПомощникЗачетаОплат</DataProcessor>
 			<InformationRegister>НоменклатураСегмента</InformationRegister>

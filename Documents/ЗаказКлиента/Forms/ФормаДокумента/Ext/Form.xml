@@ -3939,7 +3939,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.СостоянияЗаказовКлиентов</v8:Type>
+				<v8:TypeId>25d2e2f4-e19e-4dcf-8f5d-f51e109a82cc</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="СостояниеПросрочено" id="17">
@@ -4542,7 +4542,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+				<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="ИспользоватьПричиныОтменыЗаказовКлиентов" id="54">
@@ -9420,7 +9420,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.СостоянияЗаказовКлиентов</v8:Type>
+					<v8:TypeId>25d2e2f4-e19e-4dcf-8f5d-f51e109a82cc</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="СостояниеПросрочено" id="17">
@@ -10023,7 +10023,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+					<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="ИспользоватьПричиныОтменыЗаказовКлиентов" id="54">

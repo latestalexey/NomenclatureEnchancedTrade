@@ -3264,7 +3264,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.СостоянияЗаказовПоставщикам</v8:Type>
+				<v8:TypeId>9b11acd2-6c7c-4fd7-a677-85d71d9398ef</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="СостояниеПросрочено" id="23">
@@ -3578,7 +3578,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+				<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="КонтролироватьАссортимент" id="39">
@@ -7603,7 +7603,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.СостоянияЗаказовПоставщикам</v8:Type>
+					<v8:TypeId>9b11acd2-6c7c-4fd7-a677-85d71d9398ef</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="СостояниеПросрочено" id="23">
@@ -7917,7 +7917,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+					<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="КонтролироватьАссортимент" id="39">

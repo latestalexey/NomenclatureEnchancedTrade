@@ -4296,7 +4296,7 @@
 						</v8:item>
 					</Title>
 					<Type>
-						<v8:Type>cfg:EnumRef.ВариантыОплатыКлиентом</v8:Type>
+						<v8:TypeId>0453c3d4-88e4-4159-94fb-c23c88a06d8d</v8:TypeId>
 					</Type>
 				</Column>
 				<Column name="СуммаПлатежа" id="2">
@@ -4376,7 +4376,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+				<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="СуммаПредоплатыВВалютеДокумента" id="48">
@@ -10034,7 +10034,7 @@
 							</v8:item>
 						</Title>
 						<Type>
-							<v8:Type>cfg:EnumRef.ВариантыОплатыКлиентом</v8:Type>
+							<v8:TypeId>0453c3d4-88e4-4159-94fb-c23c88a06d8d</v8:TypeId>
 						</Type>
 					</Column>
 					<Column name="СуммаПлатежа" id="2">
@@ -10114,7 +10114,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.ПорядокРасчетов</v8:Type>
+					<v8:TypeId>f5baf338-5246-4c39-8577-6abf39ae5b6d</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="СуммаПредоплатыВВалютеДокумента" id="48">

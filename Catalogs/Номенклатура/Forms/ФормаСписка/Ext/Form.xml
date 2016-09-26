@@ -2532,7 +2532,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:Type>cfg:EnumRef.ВариантыНавигацииВФормахНоменклатуры</v8:Type>
+				<v8:TypeId>240e7bad-0e6f-4092-a71e-3f3e2c144b39</v8:TypeId>
 			</Type>
 		</Attribute>
 		<Attribute name="ИспользоватьФильтры" id="13">
@@ -5276,7 +5276,7 @@
 					</v8:item>
 				</Title>
 				<Type>
-					<v8:Type>cfg:EnumRef.ВариантыНавигацииВФормахНоменклатуры</v8:Type>
+					<v8:TypeId>240e7bad-0e6f-4092-a71e-3f3e2c144b39</v8:TypeId>
 				</Type>
 			</Attribute>
 			<Attribute name="ИспользоватьФильтры" id="13">
